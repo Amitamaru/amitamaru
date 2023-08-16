@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Java developer with experience developing projects and resolving tasks with Java, Spring, and SQL. <br>Aspiring with a passion for coding and a solid foundation in Java programming. Possessing a strong grasp of object-oriented principles and a keen eye for writing clean, efficient, and maintainable code. Proficient in utilizing various Java frameworks and libraries to streamline development processes and enhance application performance.<br>Eager to contribute to dynamic projects, and collaborate within a supportive team. Committed to continuous learning and embracing new technologies for software excellence.
+I am a Java developer with over 1 year of experience developing and resolving tasks, aspiring with a passion for coding and a solid foundation in Java programming possessing a firm grasp of object-oriented principles and a keen eye for writing clean, efficient, and maintainable code. I am committed to continuous learning and embracing new technologies for software excellence.
 
 
 ## 🌐 Socials:
